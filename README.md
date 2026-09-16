@@ -89,9 +89,5 @@ EmployeeManagement/
 ├── EmployeeManagement.slnx
 └── README.md
 
-## 📸 Screenshots
 
-### Login Page
-
-![Login Page](./screenshots/login.png)
 
